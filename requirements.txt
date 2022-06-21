@@ -29,7 +29,7 @@ mkl==2019.0
 mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
-numpy==1.17.2
+numpy==1.22.0
 opencv-python==4.1.1.26
 parso==0.5.1
 pexpect==4.7.0
